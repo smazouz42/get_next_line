@@ -12,6 +12,7 @@
 
 #include "get_next_line.h"
 
+
 static	char	*last(char **s)
 {
 	char	*str;
